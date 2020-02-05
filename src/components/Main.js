@@ -139,26 +139,31 @@ class Main extends React.Component {
           </form>
           <ul className="icons">
             <li>
+              <a href="https://medium.com/@melee.santiago" className="icon fa-medium">
+                <span className="label">Medium</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/aleebrown" className="icon fa-linkedin">
+                <span className="label">LinkedIn</span>
+              </a>
+            </li>
+            <li>
               <a
-                href="https://twitter.com/HuntaroSan"
+                href="https://twitter.com/alicialsantiago"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
-                <span className="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a href="https://www.instagram.com/alicialsantiago/?hl=en" className="icon fa-instagram">
                 <span className="label">Instagram</span>
               </a>
             </li>
             <li>
               <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
+                href="https://github.com/Minajeanne"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
