@@ -38,8 +38,9 @@ class Main extends React.Component {
             currently getting down and dirty with Gatsby.js + GraphQL. <br></br>
           </p>
           <p>
-            Please check out my <a href="#work">work</a> and <a href="#contact">reach out</a> if you'd like to collaborate on a project <br></br>(or hire me).
-            I'm always looking for new challenges and opportunities to grow as a developer.
+            Please check out my <a href="#work">work</a> and <a href="#contact">reach out</a> if you'd
+            like to collaborate on a project (or hire me). I'm always looking for new challenges and
+            opportunities to grow as a developer.
           </p>
           {close}
         </article>
