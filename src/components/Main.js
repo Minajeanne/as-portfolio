@@ -38,7 +38,7 @@ class Main extends React.Component {
             currently getting down and dirty with Gatsby.js + GraphQL. <br></br>
           </p>
           <p>
-            Please check out my <a href="#work">work</a> and <a href="#contact">reach out</a> if you'd like to collaborate on a project <br></br>(or hire me). 
+            Please check out my <a href="#work">work</a> and <a href="#contact">reach out</a> if you'd like to collaborate on a project <br></br>(or hire me).
             I'm always looking for new challenges and opportunities to grow as a developer.
           </p>
           {close}
@@ -74,13 +74,13 @@ class Main extends React.Component {
         </article>
 
         <article
-          id="about"
-          className={`${this.props.article === 'about' ? 'active' : ''} ${
+          id="blog"
+          className={`${this.props.article === 'blog' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">Blog</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
