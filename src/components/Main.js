@@ -33,7 +33,8 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            I am a full stack junior developer with a passion for learning and creative solutions.
+            I am a full stack junior developer & contributer to <a href="https://medium.com/swlh"> The Startup </a>
+            with a passion for learning and creative solutions.
             I have experience building applications with Ruby on Rails + React + Javascript, and I'm
             currently getting down and dirty with Gatsby.js + GraphQL. <br></br>
           </p>
