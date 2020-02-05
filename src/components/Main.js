@@ -85,7 +85,10 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-
+            Published in <a href="https://medium.com/swlh">The Startup</a>: <br></br>
+              <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde">
+              <br></br> Using the Devise Gem to Handle Authentication in a Rails App
+              </a>
           </p>
           {close}
         </article>
