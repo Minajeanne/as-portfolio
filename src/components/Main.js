@@ -33,10 +33,9 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            I am a full stack junior developer & contributer to <a href="https://medium.com/swlh"> The Startup </a>
-            with a passion for learning and creative solutions.
-            I have experience building applications with Ruby on Rails + React + Javascript, and I'm
-            currently getting down and dirty with Gatsby.js + GraphQL. <br></br>
+            I am a full stack junior developer with a passion for learning and creative solutions.
+            My background is in
+            I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring Gatsby.js + GraphQL. <br></br>
           </p>
           <p>
             Please check out my work and reach out if you'd like to collaborate on a project (or hire me).
@@ -86,10 +85,34 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Published in <a href="https://medium.com/swlh">The Startup</a>: <br></br>
+            Published in <a href="https://medium.com/swlh">The Startup</a>:
               <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde">
-              <br></br> Using the Devise Gem to Handle Authentication in a Rails App
+                <br></br>
+                  Using the Devise Gem to Handle Authentication in a Rails App
               </a>
+                <br></br>
+                  <br></br>
+
+            Published in <a href="https://medium.com/">Medium</a>:
+              <br></br>
+                <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b">
+                  A React-Redux Trivia App
+                </a>
+                  <br></br>
+
+                <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41">
+                  Updating a Rails App with JavaScript
+                </a>
+                  <br></br>
+
+                <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637">
+                  Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
+                </a>
+                  <br></br>
+
+                <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1">
+                  Brewing My First Ruby CLI Gem
+                </a>
           </p>
           {close}
         </article>
