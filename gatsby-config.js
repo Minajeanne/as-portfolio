@@ -3,7 +3,7 @@ module.exports = {
     title: 'Alicia Santiago',
     author: 'Alicia Santiago',
     description: 'A personal portfolio showcasing development work, blog, and social media contacts',
-    url: "https://www.aliciasantiago.com",
+    siteUrl: "https://www.aliciasantiago.com",
     image: "/images/icon-white.png",
     twitterUsername: "@alicialsantiago",
   },
@@ -22,5 +22,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
+    'gatsby-plugin-sitemap',
   ],
 }
