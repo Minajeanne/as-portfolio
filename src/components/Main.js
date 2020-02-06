@@ -70,7 +70,7 @@ class Main extends React.Component {
           Trivia App
             <br></br>
               <ul>
-                A general knowledge trivia game developed with a React front end and a Rails API back end using MVC
+                A general knowledge trivia game developed with a React front end and a Rails API back end, using a MVC
                   structure and serializers for front-end JSON data.
                   Applied Redux Thunk middleware to maintain global state and store JSON responses.
                 <br></br>
@@ -100,7 +100,7 @@ class Main extends React.Component {
             <br></br>
               <ul>
                 A review site for users to rate and/or recommend local restaurants.
-                  CMS application created using Sinatra with CRUD, MVC structure and ActiveRecord.
+                  A CMS application created using Sinatra with CRUD, MVC structure and ActiveRecord.
                   Basic user authentication established using built-in Rails method and BCrypt gem.
                 <br></br>
               </ul>
