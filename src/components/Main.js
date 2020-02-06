@@ -100,7 +100,7 @@ class Main extends React.Component {
             <br></br>
               <ul>
                 A review site for users to rate and/or recommend local restaurants.
-                  A CMS application created using Sinatra with CRUD, MVC structure and ActiveRecord.
+                  A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
                   Basic user authentication established using built-in Rails method and BCrypt gem.
                 <br></br>
               </ul>
