@@ -133,7 +133,7 @@ class Main extends React.Component {
           <p>
             Published in
               <a href="https://medium.com/swlh"
-                target="_blank" rel="noopener noreferrer">
+                target="_blank" rel="noopener noreferrer"> 
             The Startup
               </a>:
               <ul>
@@ -143,7 +143,11 @@ class Main extends React.Component {
                 </a>
               </ul>
 
-            Published in <a href="https://medium.com/">Medium</a>:
+            Published in
+              <a href="https://medium.com/"
+                target="_blank" rel="noopener noreferrer">
+            Medium
+              </a>:
               <ul>
                 <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b"
                   target="_blank" rel="noopener noreferrer">
@@ -229,7 +233,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://github.com/Minajeanne" target="_blank" rel="noopener noreferrer" 
+                href="https://github.com/Minajeanne" target="_blank" rel="noopener noreferrer"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
