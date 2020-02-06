@@ -206,31 +206,30 @@ class Main extends React.Component {
           </form>
           <ul className="icons">
             <li>
-              <a href="https://medium.com/@melee.santiago" className="icon fa-medium">
+              <a href="https://medium.com/@melee.santiago" className="icon fa-medium" target="_blank" rel="noopener noreferrer">
                 <span className="label">Medium</span>
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/alicialsantiago" className="icon fa-linkedin">
+              <a href="https://www.linkedin.com/in/alicialsantiago" className="icon fa-linkedin" target="_blank" rel="noopener noreferrer">
                 <span className="label">LinkedIn</span>
               </a>
             </li>
             <li>
               <a
-                href="https://twitter.com/alicialsantiago"
-                className="icon fa-twitter"
+                href="https://twitter.com/alicialsantiago" className="icon fa-twitter" target="_blank" rel="noopener noreferrer"
               >
                 <span className="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/alicialsantiago/?hl=en" className="icon fa-instagram">
+              <a href="https://www.instagram.com/alicialsantiago/?hl=en" className="icon fa-instagram" target="_blank" rel="noopener noreferrer">
                 <span className="label">Instagram</span>
               </a>
             </li>
             <li>
               <a
-                href="https://github.com/Minajeanne"
+                href="https://github.com/Minajeanne" target="_blank" rel="noopener noreferrer" 
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
