@@ -33,13 +33,18 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            I am a full stack junior developer with a passion for learning and creative solutions.
-            // My background is in
-            I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring Gatsby.js + GraphQL. <br></br>
+            Hi, my name is Alicia Santiago.
           </p>
           <p>
-            Please check out my work and reach out if you'd like to collaborate on a project (or hire me).
-            I'm always looking for new challenges and opportunities to grow as a developer.
+            I am a full stack junior developer with a passion for learning and creative solutions.
+            I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring Gatsby.js + GraphQL.
+            My background is in higher education instruction and counseling, and those skills have undoubtedly shaped my approach to problem solving.
+            The best solutions stem from curious thinkers, but curiosity is a precious resource that needs to be <em>intentionally</em> cultivated.
+            Working as a developer challenges me to stay curious and feeds my need to <b>learn all the things</b>&mdash;what could be better than that?
+          </p>
+          <p>
+            Please check out my work and reach out if you'd like to collaborate (or hire me).
+            I'm always looking to connect with like-minded devs!
           </p>
           {close}
         </article>
