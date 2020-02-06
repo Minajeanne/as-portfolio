@@ -34,7 +34,7 @@ class Main extends React.Component {
           </span>
           <p>
             I am a full stack junior developer with a passion for learning and creative solutions.
-            My background is in
+            // My background is in
             I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring Gatsby.js + GraphQL. <br></br>
           </p>
           <p>
@@ -55,21 +55,57 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
-          <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
-          </p>
-          <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
-          </p>
+          <ul>
+            <ul className="icons">
+            <li>
+              <a href="https://github.com/Minajeanne/trivia_app_backend"
+                className="icon fa-github">
+              </a>
+            </li>
+          Trivia App
+            <br></br>
+              <ul>
+                A general knowledge trivia game developed with a React front end and a Rails API back end using MVC
+                  structure and serializers for front-end JSON data.
+                  Applied Redux Thunk middleware to maintain global state and store JSON responses.
+                <br></br>
+              </ul>
+            <li>
+              <a href="https://github.com/Minajeanne/i_run"
+                className="icon fa-github">
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+          I_Run
+            <br></br>
+              <ul>
+                A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
+                  Built with a JavaScript, HTML and CSS front end and a Rails API back end.
+                  User authentication established using OmniAuth via Github or directly within the application via
+                  the Devise gem.
+                <br></br>
+              </ul>
+            <li>
+              <a href="https://github.com/Minajeanne/munch"
+                className="icon fa-github">
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+          MUNCH
+            <br></br>
+              <ul>
+                A review site for users to rate and/or recommend local restaurants.
+                  CMS application created using Sinatra with CRUD, MVC structure and ActiveRecord.
+                  Basic user authentication established using built-in Rails method and BCrypt gem.
+                <br></br>
+              </ul>
+          <a href="https://gpainc.org/">The Gifted & Purposed Alliance, Inc.</a>
+              <br></br>
+              <ul>
+                Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
+              </ul>
+            </ul>
+          </ul>
           {close}
         </article>
 
