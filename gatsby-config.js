@@ -3,17 +3,17 @@ module.exports = {
     title: 'Alicia Santiago',
     author: 'Alicia Santiago',
     description: 'A personal portfolio showcasing development work, blog, and social media contacts',
-    siteUrl: "https://www.aliciasantiago.com",
-    image: "/images/icon-white.png",
+    siteUrl: 'https://www.aliciasantiago.com',
+    image: '/images/icon-white.png',
     twitterUsername: "@alicialsantiago",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Alicia Santiago',
+        short_name: 'Alicia Santiago',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
@@ -23,5 +23,6 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-sitemap',
+    'gatsby-plugin-offline',
   ],
 }
