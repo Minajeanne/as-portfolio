@@ -131,42 +131,30 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Published in
-              <a href="https://medium.com/swlh"
-                target="_blank" rel="noopener noreferrer">
-            The Startup
-              </a>:
+            Published in <a href="https://medium.com/swlh" target="_blank" rel="noopener noreferrer">The Startup</a>:
               <ul>
                 <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde"
                   target="_blank" rel="noopener noreferrer">
                     Using the Devise Gem to Handle Authentication in a Rails App
                 </a>
               </ul>
-
-            Published in
-              <a href="https://medium.com/"
-                target="_blank" rel="noopener noreferrer">
-            Medium
-              </a>:
+            Published in <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>:
               <ul>
                 <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b"
                   target="_blank" rel="noopener noreferrer">
                   A React-Redux Trivia App
                 </a>
-                  <br></br>
-
+              <br></br>
                 <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41"
                   target="_blank" rel="noopener noreferrer">
                   Updating a Rails App with JavaScript
                 </a>
-                  <br></br>
-
+              <br></br>
                 <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637"
                   target="_blank" rel="noopener noreferrer">
                   Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
                 </a>
-                  <br></br>
-
+              <br></br>
                 <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1"
                   target="_blank" rel="noopener noreferrer">
                   Brewing My First Ruby CLI Gem
