@@ -81,7 +81,7 @@ class Main extends React.Component {
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
                   Built with a JavaScript, HTML and CSS front end and a Rails API back end.
-                  User authentication established using OmniAuth via Github or directly within the application via
+                  User authentication established using OmniAuth via Github or directly within the application using
                   the Devise gem.
                 <br></br>
               </ul>
@@ -122,15 +122,14 @@ class Main extends React.Component {
           </span>
           <p>
             Published in <a href="https://medium.com/swlh">The Startup</a>:
-              <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde">
-                <br></br>
-                  Using the Devise Gem to Handle Authentication in a Rails App
-              </a>
-                <br></br>
-                  <br></br>
+              <ul>
+                <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde">
+                    Using the Devise Gem to Handle Authentication in a Rails App
+                </a>
+              </ul>
 
             Published in <a href="https://medium.com/">Medium</a>:
-              <br></br>
+              <ul>
                 <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b">
                   A React-Redux Trivia App
                 </a>
@@ -149,6 +148,7 @@ class Main extends React.Component {
                 <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1">
                   Brewing My First Ruby CLI Gem
                 </a>
+              </ul>
           </p>
           {close}
         </article>
