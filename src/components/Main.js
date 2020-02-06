@@ -133,7 +133,7 @@ class Main extends React.Component {
           <p>
             Published in
               <a href="https://medium.com/swlh"
-                target="_blank" rel="noopener noreferrer"> 
+                target="_blank" rel="noopener noreferrer">
             The Startup
               </a>:
               <ul>
