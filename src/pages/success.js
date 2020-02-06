@@ -8,9 +8,10 @@ const Success = props => (
       <title>Success Page</title>
       <meta name="description" content="Success Page" />
     </Helmet>
-        <div>
-            <p>Thank you for reaching out!</p>
-        </div>
+
+    <div>
+        <p>Thank you for reaching out!</p>
+    </div>
   </Layout>
 );
 

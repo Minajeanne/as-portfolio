@@ -64,6 +64,7 @@ class Main extends React.Component {
             <ul className="icons">
             <li>
               <a href="https://github.com/Minajeanne/trivia_app_backend"
+                target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
               </a>
             </li>
@@ -77,6 +78,7 @@ class Main extends React.Component {
               </ul>
             <li>
               <a href="https://github.com/Minajeanne/i_run"
+                target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
                 <span className="label">GitHub</span>
               </a>
@@ -92,6 +94,7 @@ class Main extends React.Component {
               </ul>
             <li>
               <a href="https://github.com/Minajeanne/munch"
+                target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
                 <span className="label">GitHub</span>
               </a>
@@ -104,7 +107,9 @@ class Main extends React.Component {
                   Basic user authentication established using built-in Rails method and BCrypt gem.
                 <br></br>
               </ul>
-          <a href="https://gpainc.org/">The Gifted & Purposed Alliance, Inc.</a>
+            <a href="https://gpainc.org/" target="_blank" rel="noopener noreferrer">
+          The Gifted & Purposed Alliance, Inc.
+            </a>
               <br></br>
               <ul>
                 Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
@@ -126,31 +131,40 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Published in <a href="https://medium.com/swlh">The Startup</a>:
+            Published in
+              <a href="https://medium.com/swlh"
+                target="_blank" rel="noopener noreferrer">
+            The Startup
+              </a>:
               <ul>
-                <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde">
+                <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde"
+                  target="_blank" rel="noopener noreferrer">
                     Using the Devise Gem to Handle Authentication in a Rails App
                 </a>
               </ul>
 
             Published in <a href="https://medium.com/">Medium</a>:
               <ul>
-                <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b">
+                <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b"
+                  target="_blank" rel="noopener noreferrer">
                   A React-Redux Trivia App
                 </a>
                   <br></br>
 
-                <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41">
+                <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41"
+                  target="_blank" rel="noopener noreferrer">
                   Updating a Rails App with JavaScript
                 </a>
                   <br></br>
 
-                <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637">
+                <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637"
+                  target="_blank" rel="noopener noreferrer">
                   Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
                 </a>
                   <br></br>
 
-                <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1">
+                <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1"
+                  target="_blank" rel="noopener noreferrer">
                   Brewing My First Ruby CLI Gem
                 </a>
               </ul>
