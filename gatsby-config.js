@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: 'Alicia Santiago',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    author: 'Alicia Santiago',
+    description: 'A personal portfolio showcasing development work, blog, and social media contacts',
+    url: "https://www.aliciasantiago.com",
+    image: "/images/icon-white.png",
+    twitterUsername: "@alicialsantiago",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
