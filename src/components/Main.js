@@ -69,12 +69,12 @@ class Main extends React.Component {
               </a>
             </li>
           Trivia App
-            <br>
+             <br />
               <ul>
                 A general knowledge trivia game developed with a React front end and a Rails API back end, using a MVC
                   structure and serializers for front-end JSON data.
                   Applied Redux Thunk middleware to maintain global state and store JSON responses.
-                <br>
+                 <br />
               </ul>
             <li>
               <a href="https://github.com/Minajeanne/i_run"
@@ -84,13 +84,13 @@ class Main extends React.Component {
               </a>
             </li>
           I_Run
-            <br>
+             <br />
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
                   Built with a JavaScript, HTML and CSS front end and a Rails API back end.
                   User authentication established using OmniAuth via Github or directly within the application using
                   the Devise gem.
-                <br>
+                 <br />
               </ul>
             <li>
               <a href="https://github.com/Minajeanne/munch"
@@ -100,17 +100,17 @@ class Main extends React.Component {
               </a>
             </li>
           MUNCH
-            <br>
+             <br />
               <ul>
                 A review site for users to rate and/or recommend local restaurants.
                   A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
                   Basic user authentication established using built-in Rails method and BCrypt gem.
-                <br>
+                 <br />
               </ul>
             <a href="https://gpainc.org/" target="_blank" rel="noopener noreferrer">
           The Gifted & Purposed Alliance, Inc.
             </a>
-              <br>
+               <br />
                 <ul>
                   Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
                 </ul>
@@ -144,17 +144,17 @@ class Main extends React.Component {
                   target="_blank" rel="noopener noreferrer">
                   A React-Redux Trivia App
                 </a>
-              <br>
+               <br />
                 <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41"
                   target="_blank" rel="noopener noreferrer">
                   Updating a Rails App with JavaScript
                 </a>
-              <br>
+               <br />
                 <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637"
                   target="_blank" rel="noopener noreferrer">
                   Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
                 </a>
-              <br>
+               <br />
                 <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1"
                   target="_blank" rel="noopener noreferrer">
                   Brewing My First Ruby CLI Gem
