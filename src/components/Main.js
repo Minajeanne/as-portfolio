@@ -36,7 +36,7 @@ class Main extends React.Component {
             Hi, my name is Alicia Santiago.
           </p>
           <p>
-            I am a full stack junior developer with a passion for learning and creative solutions.
+            I am a full stack developer with a passion for learning and creative solutions.
             I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring GatsbyJS + GraphQL.
             My background is in higher education instruction and counseling, and those skills have undoubtedly shaped my approach to problem solving.
             The best solutions stem from curious thinkers, but curiosity is a precious resource that needs to be <em>intentionally</em> cultivated.
