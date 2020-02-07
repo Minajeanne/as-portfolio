@@ -69,7 +69,7 @@ class Main extends React.Component {
               </a>
             </li>
           Trivia App
-             <br />
+             <br></br>
               <ul>
                 A general knowledge trivia game developed with a React front end and a Rails API back end, using a MVC
                   structure and serializers for front-end JSON data.
@@ -84,7 +84,7 @@ class Main extends React.Component {
               </a>
             </li>
           I_Run
-             <br />
+             <br></br>
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
                   Built with a JavaScript, HTML and CSS front end and a Rails API back end.
@@ -100,7 +100,7 @@ class Main extends React.Component {
               </a>
             </li>
           MUNCH
-             <br />
+             <br></br>
               <ul>
                 A review site for users to rate and/or recommend local restaurants.
                   A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
@@ -110,7 +110,7 @@ class Main extends React.Component {
             <a href="https://gpainc.org/" target="_blank" rel="noopener noreferrer">
           The Gifted & Purposed Alliance, Inc.
             </a>
-               <br />
+               <br></br>
                 <ul>
                   Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
                 </ul>
