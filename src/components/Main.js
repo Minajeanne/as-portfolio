@@ -37,7 +37,7 @@ class Main extends React.Component {
           </p>
           <p>
             I am a full stack junior developer with a passion for learning and creative solutions.
-            I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring Gatsby.js + GraphQL.
+            I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring GatsbyJS + GraphQL.
             My background is in higher education instruction and counseling, and those skills have undoubtedly shaped my approach to problem solving.
             The best solutions stem from curious thinkers, but curiosity is a precious resource that needs to be <em>intentionally</em> cultivated.
             Working as a developer challenges me to stay curious and feeds my need to <b>learn all the things</b>&mdash;what could be better than that?
@@ -69,12 +69,12 @@ class Main extends React.Component {
               </a>
             </li>
           Trivia App
-            <br></br>
+            <br>
               <ul>
                 A general knowledge trivia game developed with a React front end and a Rails API back end, using a MVC
                   structure and serializers for front-end JSON data.
                   Applied Redux Thunk middleware to maintain global state and store JSON responses.
-                <br></br>
+                <br>
               </ul>
             <li>
               <a href="https://github.com/Minajeanne/i_run"
@@ -84,13 +84,13 @@ class Main extends React.Component {
               </a>
             </li>
           I_Run
-            <br></br>
+            <br>
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
                   Built with a JavaScript, HTML and CSS front end and a Rails API back end.
                   User authentication established using OmniAuth via Github or directly within the application using
                   the Devise gem.
-                <br></br>
+                <br>
               </ul>
             <li>
               <a href="https://github.com/Minajeanne/munch"
@@ -100,20 +100,20 @@ class Main extends React.Component {
               </a>
             </li>
           MUNCH
-            <br></br>
+            <br>
               <ul>
                 A review site for users to rate and/or recommend local restaurants.
                   A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
                   Basic user authentication established using built-in Rails method and BCrypt gem.
-                <br></br>
+                <br>
               </ul>
             <a href="https://gpainc.org/" target="_blank" rel="noopener noreferrer">
           The Gifted & Purposed Alliance, Inc.
             </a>
-              <br></br>
-              <ul>
-                Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
-              </ul>
+              <br>
+                <ul>
+                  Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
+                </ul>
             </ul>
           </ul>
           {close}
@@ -131,30 +131,30 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Published in <a href="https://medium.com/swlh" target="_blank" rel="noopener noreferrer">The Startup</a>:
+            Published in <a href="https://medium.com/swlh" target="_blank" rel="noopener noreferrer"> The Startup</a>:
               <ul>
                 <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde"
                   target="_blank" rel="noopener noreferrer">
                     Using the Devise Gem to Handle Authentication in a Rails App
                 </a>
               </ul>
-            Published in <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>:
+            Published in <a href="https://medium.com/" target="_blank" rel="noopener noreferrer"> Medium</a>:
               <ul>
                 <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b"
                   target="_blank" rel="noopener noreferrer">
                   A React-Redux Trivia App
                 </a>
-              <br></br>
+              <br>
                 <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41"
                   target="_blank" rel="noopener noreferrer">
                   Updating a Rails App with JavaScript
                 </a>
-              <br></br>
+              <br>
                 <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637"
                   target="_blank" rel="noopener noreferrer">
                   Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
                 </a>
-              <br></br>
+              <br>
                 <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1"
                   target="_blank" rel="noopener noreferrer">
                   Brewing My First Ruby CLI Gem
