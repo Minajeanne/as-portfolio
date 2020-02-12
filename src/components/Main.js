@@ -73,7 +73,7 @@ class Main extends React.Component {
               <ul>
                 A general knowledge trivia game developed with a React front end and a Rails API back end, using a MVC
                   structure and serializers for front-end JSON data.
-                  Applied Redux Thunk middleware to maintain global state and store JSON responses.
+                  Applied Redux to maintain global state and Thunk middleware to allow async logic.
                  <br />
               </ul>
             <li>
