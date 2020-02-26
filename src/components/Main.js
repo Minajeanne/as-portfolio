@@ -88,7 +88,7 @@ class Main extends React.Component {
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
                   Built with a JavaScript, HTML and CSS frontend and a Rails API backend.
-                  User authentication established using OmniAuth via Github and/or directly within the application using
+                  User authentication established using OmniAuth via Github and directly within the application using
                   the Devise gem.
                  <br />
               </ul>
