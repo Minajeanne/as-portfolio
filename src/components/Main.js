@@ -71,7 +71,7 @@ class Main extends React.Component {
           Trivia App
              <br></br>
               <ul>
-                A general knowledge trivia game developed with a React front end and a Rails API back end, using a MVC
+                A general knowledge trivia game developed with a React frontend and a Rails API backend, using a MVC
                   structure and serializers for front-end JSON data.
                   Applied Redux to maintain global state and Thunk middleware to allow async logic.
                  <br />
@@ -87,8 +87,8 @@ class Main extends React.Component {
              <br></br>
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
-                  Built with a JavaScript, HTML and CSS front end and a Rails API back end.
-                  User authentication established using OmniAuth via Github or directly within the application using
+                  Built with a JavaScript, HTML and CSS frontend and a Rails API backend.
+                  User authentication established using OmniAuth via Github and/or directly within the application using
                   the Devise gem.
                  <br />
               </ul>
