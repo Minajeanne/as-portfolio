@@ -102,7 +102,7 @@ class Main extends React.Component {
           MUNCH
              <br></br>
               <ul>
-                A review site for users to rate and/or recommend local restaurants.
+                A review site for users to rate and recommend local restaurants.
                   A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
                   Basic user authentication established using built-in Rails method and BCrypt gem.
                  <br />
