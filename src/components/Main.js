@@ -63,7 +63,7 @@ class Main extends React.Component {
           <ul>
             <ul className="icons">
             <li>
-              <a href="https://github.com/Minajeanne/trivia_app_backend"
+              <a href="https://github.com/Minajeanne/trivia_app_frontend"
                 target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
               </a>
