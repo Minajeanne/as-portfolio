@@ -71,7 +71,7 @@ class Main extends React.Component {
           Trivia App
              <br></br>
               <ul>
-                A general knowledge trivia game developed with a React frontend and a Rails API backend, using a MVC
+                A general knowledge trivia game developed with a React frontend and a Rails API backend, using an MVC
                   structure and serializers for front-end JSON data.
                   Applied Redux to maintain global state and Thunk middleware to allow async logic.
                  <br />
