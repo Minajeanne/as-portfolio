@@ -37,7 +37,7 @@ class Main extends React.Component {
           </p>
           <p>
             I am a full stack developer with a passion for learning and creative solutions.
-            I have experience building applications with Ruby on Rails + React + JavaScript, and I'm currently exploring GatsbyJS + GraphQL.
+            I have experience building applications with Rails, React + JavaScript, and I'm currently exploring GatsbyJS, Node.js + GraphQL.
             My background is in higher education instruction and counseling, and those skills have undoubtedly shaped my approach to problem solving.
             The best solutions stem from curious thinkers, but curiosity is a precious resource that needs to be <em>intentionally</em> cultivated.
             Working as a developer challenges me to stay curious and feeds my need to <b>learn all the things</b>&mdash;what could be better than that?
