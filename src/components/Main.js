@@ -123,7 +123,9 @@ class Main extends React.Component {
                   Version 0.4.0 released.
                  <br />
               </ul>
-            <a href="https://gpainc.org/" target="_blank" rel="noopener noreferrer">
+            <a href="https://gpainc.org/"
+              target="_blank"
+              rel="noopener noreferrer">
           The Gifted & Purposed Alliance, Inc.
             </a>
                <br></br>
