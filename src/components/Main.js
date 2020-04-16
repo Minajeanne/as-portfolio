@@ -110,7 +110,7 @@ class Main extends React.Component {
             <li>
               <a href="https://rubygems.org/profiles/alicialsantiago"
                 target="_blank" rel="noopener noreferrer"
-                className="icon fa-gem"><i class="fas fa-gem fa-spin"></i>
+                className="icon fa-diamond">
                 <span className="label">RubyGems</span>
               </a>
             </li>
@@ -120,7 +120,7 @@ class Main extends React.Component {
                 A RubyGem that accesses BeerAdvocate's Top Rated New Beers list from the comfort of your command line.
                   Explore each beer's score, style, ABV, and more, and view additional information on the brewery directly
                   in your browser.
-                  Version 0.4.0 released
+                  Version 0.4.0 released.
                  <br />
               </ul>
             <a href="https://gpainc.org/" target="_blank" rel="noopener noreferrer">
