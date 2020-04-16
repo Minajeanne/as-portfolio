@@ -110,7 +110,7 @@ class Main extends React.Component {
             <li>
               <a href="https://rubygems.org/profiles/alicialsantiago"
                 target="_blank" rel="noopener noreferrer"
-                className="icon fa-beer">
+                className="fas fa-beer">
                 <span className="label">RubyGems</span>
               </a>
             </li>
