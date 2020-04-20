@@ -40,7 +40,7 @@ class Main extends React.Component {
             I have experience building applications with Rails, React + JavaScript, and I'm currently exploring GatsbyJS, Node.js + GraphQL.
             My background is in higher education instruction and counseling, and those skills have undoubtedly shaped my approach to problem solving.
             The best solutions stem from curious thinkers, but curiosity is a precious resource that needs to be <em>intentionally</em> cultivated.
-            Working as a developer challenges me to stay curious and feeds my need to <b>learn all the things</b>&mdash;what could be better than that?
+            Working as a developer challenges me to stay curious and feeds my need to learn&mdash;what could be better than that?
           </p>
           <p>
             Please check out my work and reach out if you'd like to collaborate (or hire me).
