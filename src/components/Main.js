@@ -141,7 +141,7 @@ class Main extends React.Component {
             </a>
                <br></br>
                 <ul>
-                  Website providing practical healing methods and resources.
+                  A website that provides practical healing methods and resources.
                 </ul>
             </ul>
           </ul>
