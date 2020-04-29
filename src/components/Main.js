@@ -134,6 +134,17 @@ class Main extends React.Component {
                 </ul>
             </ul>
           </ul>
+          <a href="https://www.pure-moves.com/"
+            target="_blank"
+            rel="noopener noreferrer">
+          Pure Moves
+            </a>
+               <br></br>
+                <ul>
+                  Website providing practical healing methods and resources.
+                </ul>
+            </ul>
+          </ul>
           {close}
         </article>
 
