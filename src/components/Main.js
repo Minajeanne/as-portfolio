@@ -132,8 +132,6 @@ class Main extends React.Component {
                 <ul>
                   Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
                 </ul>
-            </ul>
-          </ul>
           <a href="https://www.pure-moves.com/"
             target="_blank"
             rel="noopener noreferrer">
