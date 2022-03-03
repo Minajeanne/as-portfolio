@@ -62,85 +62,85 @@ class Main extends React.Component {
           </span>
           <ul>
             <ul className="icons">
-            <li>
-              <a href="https://github.com/Minajeanne/trivia_app_frontend"
-                target="_blank" rel="noopener noreferrer"
+              <li>
+                <a href="https://github.com/Minajeanne/trivia_app_frontend"
+                  target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
-              </a>
-            </li>
-          Trivia App
-             <br></br>
+                </a>
+              </li>
+              Trivia App
+              <br></br>
               <ul>
                 A general knowledge trivia game developed with a React frontend and a Rails API backend, using an MVC
-                  structure and serializers for front-end JSON data.
-                  Applied Redux to maintain global state and Thunk middleware to allow async logic.
-                 <br />
+                structure and serializers for front-end JSON data.
+                Applied Redux to maintain global state and Thunk middleware to allow async logic.
+                <br />
               </ul>
-            <li>
-              <a href="https://github.com/Minajeanne/i_run"
-                target="_blank" rel="noopener noreferrer"
+              <li>
+                <a href="https://github.com/Minajeanne/i_run"
+                  target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
-                <span className="label">GitHub</span>
-              </a>
-            </li>
-          I_Run
-             <br></br>
+                  <span className="label">GitHub</span>
+                </a>
+              </li>
+              I_Run
+              <br></br>
               <ul>
                 A SPA that allows user to keep track of personal records, past performances, and past/upcoming races.
-                  Built with a JavaScript, HTML and CSS frontend and a Rails API backend.
-                  User authentication established using OmniAuth via Github and directly within the application using
-                  the Devise gem.
-                 <br />
+                Built with a JavaScript, HTML and CSS frontend and a Rails API backend.
+                User authentication established using OmniAuth via Github and directly within the application using
+                the Devise gem.
+                <br />
               </ul>
-            <li>
-              <a href="https://github.com/Minajeanne/munch"
-                target="_blank" rel="noopener noreferrer"
+              <li>
+                <a href="https://github.com/Minajeanne/munch"
+                  target="_blank" rel="noopener noreferrer"
                 className="icon fa-github">
-                <span className="label">GitHub</span>
-              </a>
-            </li>
-          MUNCH
-             <br></br>
+                  <span className="label">GitHub</span>
+                </a>
+              </li>
+              MUNCH
+              <br></br>
               <ul>
                 A review site for users to rate and recommend local restaurants.
-                  A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
-                  Basic user authentication established using built-in Rails method and BCrypt gem.
-                 <br />
+                A CMS application created using Sinatra with a CRUD, MVC structure and ActiveRecord.
+                Basic user authentication established using built-in Rails method and BCrypt gem.
+                <br />
               </ul>
-            <li>
-              <a href="https://rubygems.org/profiles/alicialsantiago"
-                target="_blank" rel="noopener noreferrer"
+              <li>
+                <a href="https://rubygems.org/profiles/alicialsantiago"
+                  target="_blank" rel="noopener noreferrer"
                 className="icon fa-diamond">
-                <span className="label">RubyGems</span>
-              </a>
-            </li>
-          Tap Rated New Beers
-             <br></br>
+                  <span className="label">RubyGems</span>
+                </a>
+              </li>
+              Tap Rated New Beers
+              <br></br>
               <ul>
                 A RubyGem that accesses BeerAdvocate's Top Rated New Beers list from the comfort of your command line.
-                  Explore each beer's score, style, ABV, and more, and view additional information on the brewery directly
-                  in your browser.
-                  Version 0.4.0 released.
-                 <br />
+                Explore each beer's score, style, ABV, and more, and view additional information on the brewery directly
+                in your browser.
+                Version 0.4.0 released.
+                <br />
               </ul>
-            <a href="https://gpainc.org/"
-              target="_blank"
+              <a href="https://gpainc.org/"
+                target="_blank"
               rel="noopener noreferrer">
-          The Gifted & Purposed Alliance, Inc.
-            </a>
-               <br></br>
-                <ul>
-                  Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
-                </ul>
-          <a href="https://www.pure-moves.com/"
-            target="_blank"
-            rel="noopener noreferrer">
-          Pure Moves
-            </a>
-               <br></br>
-                <ul>
-                  A website that provides practical healing methods and resources.
-                </ul>
+                The Gifted & Purposed Alliance, Inc.
+              </a>
+              <br></br>
+              <ul>
+                Website for GPA, Inc., a nonprofit organization for young people gifted in the arts.
+              </ul>
+              <a href="https://www.pure-moves.com/"
+                target="_blank"
+              rel="noopener noreferrer">
+                Pure Moves
+              </a>
+              <br></br>
+              <ul>
+                A website that provides practical healing methods and resources.
+              </ul>
             </ul>
           </ul>
           {close}
@@ -159,34 +159,34 @@ class Main extends React.Component {
           </span>
           <p>
             Published in <a href="https://medium.com/swlh" target="_blank" rel="noopener noreferrer"> The Startup</a>:
-              <ul>
-                <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde"
-                  target="_blank" rel="noopener noreferrer">
-                    Using the Devise Gem to Handle Authentication in a Rails App
-                </a>
-              </ul>
+            <ul>
+              <a href="https://medium.com/swlh/https-medium-com-melee-santiago-using-devise-gem-to-handle-authentication-in-rails-app-538bbd231dde"
+              target="_blank" rel="noopener noreferrer">
+                Using the Devise Gem to Handle Authentication in a Rails App
+              </a>
+            </ul>
             Published in <a href="https://medium.com/" target="_blank" rel="noopener noreferrer"> Medium</a>:
-              <ul>
-                <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b"
-                  target="_blank" rel="noopener noreferrer">
-                  A React-Redux Trivia App
-                </a>
-               <br />
-                <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41"
-                  target="_blank" rel="noopener noreferrer">
-                  Updating a Rails App with JavaScript
-                </a>
-               <br />
-                <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637"
-                  target="_blank" rel="noopener noreferrer">
-                  Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
-                </a>
-               <br />
-                <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1"
-                  target="_blank" rel="noopener noreferrer">
-                  Brewing My First Ruby CLI Gem
-                </a>
-              </ul>
+            <ul>
+              <a href="https://medium.com/@melee.santiago/a-react-redux-trivia-app-81a01907a27b"
+              target="_blank" rel="noopener noreferrer">
+                A React-Redux Trivia App
+              </a>
+              <br />
+              <a href="https://medium.com/@melee.santiago/updating-a-rails-app-with-javascript-b27a68694d41"
+              target="_blank" rel="noopener noreferrer">
+                Updating a Rails App with JavaScript
+              </a>
+              <br />
+              <a href="https://medium.com/@melee.santiago/creating-a-crud-mvc-app-using-sinatra-my-three-biggest-takeaways-d85213055637"
+              target="_blank" rel="noopener noreferrer">
+                Creating a CRUD, MVC App Using Sinatra: My Three Biggest Takeaways
+              </a>
+              <br />
+              <a href="https://medium.com/@melee.santiago/brewing-my-first-ruby-cli-gem-b0299e7968a1"
+              target="_blank" rel="noopener noreferrer">
+                Brewing My First Ruby CLI Gem
+              </a>
+            </ul>
           </p>
           {close}
         </article>
@@ -199,33 +199,33 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-            <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/">
+          <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/">
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="contact" />
-              <div className="field half first">
-                <label htmlFor="name">Name</label>
-                <input type="text" name="name" id="name" />
-              </div>
-              <div className="field half">
-                <label htmlFor="email">Email</label>
-                <input type="text" name="email" id="email" />
-              </div>
-              <div className="field">
-                <label htmlFor="message">Message</label>
-                <textarea name="message" id="message" rows="4"></textarea>
-              </div>
-              <ul className="actions">
-                <li>
-                  <input type="submit" value="Send Message" className="special" />
-                </li>
-                <li>
-                  <input type="reset" value="Reset" />
-                </li>
-              </ul>
+            <div className="field half first">
+              <label htmlFor="name">Name</label>
+              <input type="text" name="name" id="name" />
+            </div>
+            <div className="field half">
+              <label htmlFor="email">Email</label>
+              <input type="text" name="email" id="email" />
+            </div>
+            <div className="field">
+              <label htmlFor="message">Message</label>
+              <textarea name="message" id="message" rows="4"></textarea>
+            </div>
+            <ul className="actions">
+              <li>
+                <input type="submit" value="Send Message" className="special" />
+              </li>
+              <li>
+                <input type="reset" value="Reset" />
+              </li>
+            </ul>
           </form>
           <ul className="icons">
             <li>
-              <a href="https://medium.com/@melee.santiago" className="icon fa-medium" target="_blank" rel="noopener noreferrer">
+              <a href="https://alicia-santiago.medium.com/" className="icon fa-medium" target="_blank" rel="noopener noreferrer">
                 <span className="label">Medium</span>
               </a>
             </li>
